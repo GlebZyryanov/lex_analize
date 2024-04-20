@@ -1,0 +1,15 @@
+class Myclass{
+const int i = 5;
+};
+
+int main){
+const float exp2 = 1.54e10;
+int h inth = 10;
+Myclass cl;
+
+while(h>2){
+h = h - cl.i;
+}
+
+return 0;
+}
